@@ -33,4 +33,8 @@ class AppStrings{
   static const String resendEmailCode = "Did not receive email ? Resend";
 
 
+  // Onboarding Screen
+  static const String skip = "Skip";
+
+
 }
