@@ -1,4 +1,4 @@
-# udemy_mvvm_seriese
+# Tut App with MVVM
 
 A new Flutter project.
 
